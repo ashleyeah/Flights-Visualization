@@ -1,9 +1,6 @@
-# CS 225 Final Project
+# Flights Data Visualization
 ## Team members: Ashley Yeah, Brandon Oh, Jeha Chung, Jinpyo Lee
 
-
-### Video Presentation
-Here is a link to our [final presentation](https://www.youtube.com/watch?v=8XKLfOJ_9YA).
 ### Overview of Dataset
 We obtained the data OpenFlights through the following link: *https://openflights.org/data.html*. From this link we used the [airports.dat](https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat) and [routes.dat](https://raw.githubusercontent.com/jpatokal/openflights/master/data/routes.dat) and converted them into text files. The text files are saved as `airports.txt` and `routedata.txt`, respectively. 
 
